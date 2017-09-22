@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Cathy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/Cathy/AndroidStudioProjects/CathySimpleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_76ee971e43e1e0be5dfbeebfb9aa7c15ed3f1c02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cathy/.android/build-cache/9b256a3b758522fa38c9c9a2200180bbbb69c5f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/Cathy/AndroidStudioProjects/CathySimpleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eba9d03c794fdd567cf1debd11a6fcda31990268/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cathy/.android/build-cache/80440c4d2fb9334446068630447645138999b168/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/Cathy/AndroidStudioProjects/CathySimpleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c4da1e0d9ccb19fa59f409c95f9e1c496076a076/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cathy/AndroidStudioProjects/CathySimpleApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Cathy/AndroidStudioProjects/CathySimpleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6632ce98182c211f8edc137f495e87dd17db2344/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cathy/.android/build-cache/57816baf787050bb5a09bc913d94c6329a3e1c76/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/Cathy/AndroidStudioProjects/CathySimpleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e22d2465d46d2834474f09195f2beba007def650/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cathy/.android/build-cache/d3df54aca311bb567a2cc2d9e7f3737dbf7152b3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/Cathy/AndroidStudioProjects/CathySimpleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43288e2167e5b0dbd0c96ccac937607abf155c6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cathy/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Cathy/AndroidStudioProjects/CathySimpleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_ab18b17921d446c24b8d797fc2656766bacdbeb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cathy/.android/build-cache/7ccf991201426bdafeabd03f7da21eee5a2dedfd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/Cathy/AndroidStudioProjects/CathySimpleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_afe692cba064a828fe55eb378b4a4d1385ea44eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cathy/.android/build-cache/ea5276f270b556b57f8c24ec5a53200fd650b4d8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/Cathy/AndroidStudioProjects/CathySimpleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8c06c065be76d749dc34213e59bcd10d6a89f99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cathy/.android/build-cache/c0c4b44e8b055aea1e789ea3c7afb19450a9d286/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/Cathy/AndroidStudioProjects/CathySimpleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8615652bfeb249d6539a8bb80bfb629c224bdf9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cathy/AndroidStudioProjects/CathySimpleApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9d65a152869e5264cc1e22264e07016acae59e43">
+        <dex dex="/Users/Cathy/AndroidStudioProjects/CathySimpleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_92c793869fd2868b6dbea074fe42a13ca84f37ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cathy/.android/build-cache/71359e729ebc26a485c8e7ad9ef05faa123d082e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Cathy/AndroidStudioProjects/CathySimpleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4da1b5d4b3b3dbe008fe41184dd83779c0a96d8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cathy/.android/build-cache/f48b7c5a239e88a4bd0e10d5981f12bb7014e15a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/Cathy/AndroidStudioProjects/CathySimpleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_957caa26120d3e9753e5e35c2ac5d3c3ee40469c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cathy/.android/build-cache/8ac3ac3f1f5c8cda3d06915a6959cc15adcadf1d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/Cathy/AndroidStudioProjects/CathySimpleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_91b5d1ea3e7f57d0b5861ccef3cb4b4e207572fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cathy/.android/build-cache/9b0e91797738ebfc121565930f8af6515ffde2c1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/Cathy/AndroidStudioProjects/CathySimpleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ecd2fe21db59a1818634d867be1967ff444ece79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cathy/.android/build-cache/7f4fcb1218c8c5438b0df5ceab73dca450069c02/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Cathy/AndroidStudioProjects/CathySimpleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6369020847d3cb6b73b82c936808f9fbdfb17c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Cathy/.android/build-cache/3e9811b2dc807404789a67107af9c7045507c09b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/Cathy/AndroidStudioProjects/CathySimpleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb164a8b76c1564e322fb9789cc05957af6c0bd2/classes.dex" />
+    </item>
+
+</items>
